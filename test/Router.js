@@ -1,4 +1,4 @@
-'use strict'
+use strict'
 
 var after = require('after');
 var express = require('../')
